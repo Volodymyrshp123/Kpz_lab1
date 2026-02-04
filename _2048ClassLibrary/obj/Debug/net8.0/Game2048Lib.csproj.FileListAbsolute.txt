@@ -1,0 +1,22 @@
+C:\Users\Volodymyr\Desktop\Politech 2024-2025\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\bin\Debug\net8.0\Game2048Lib.deps.json
+C:\Users\Volodymyr\Desktop\Politech 2024-2025\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\bin\Debug\net8.0\Game2048Lib.dll
+C:\Users\Volodymyr\Desktop\Politech 2024-2025\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\bin\Debug\net8.0\Game2048Lib.pdb
+C:\Users\Volodymyr\Desktop\Politech 2024-2025\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volodymyr\Desktop\Politech 2024-2025\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.AssemblyInfoInputs.cache
+C:\Users\Volodymyr\Desktop\Politech 2024-2025\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.AssemblyInfo.cs
+C:\Users\Volodymyr\Desktop\Politech 2024-2025\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.csproj.CoreCompileInputs.cache
+C:\Users\Volodymyr\Desktop\Politech 2024-2025\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.dll
+C:\Users\Volodymyr\Desktop\Politech 2024-2025\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\refint\Game2048Lib.dll
+C:\Users\Volodymyr\Desktop\Politech 2024-2025\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.pdb
+C:\Users\Volodymyr\Desktop\Politech 2024-2025\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\ref\Game2048Lib.dll
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\bin\Debug\net8.0\Game2048Lib.deps.json
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\bin\Debug\net8.0\Game2048Lib.dll
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\bin\Debug\net8.0\Game2048Lib.pdb
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.AssemblyInfoInputs.cache
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.AssemblyInfo.cs
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.csproj.CoreCompileInputs.cache
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.dll
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\refint\Game2048Lib.dll
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.pdb
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\ref\Game2048Lib.dll
