@@ -3,6 +3,7 @@ using System.Diagnostics;
 using System.Drawing;
 using System.Windows.Forms;
 using Game2048Lib;
+using _2048ClassLibrary;
 
 namespace Game2048WinForms
 {
@@ -23,7 +24,7 @@ namespace Game2048WinForms
             InitializeComponent();
             game = new GameBoard();
             scoreCounter = new ScoreCounter();
-            labels = new Label[4, 4];
+            labels = new Label[GameConfig.BoardSize, GameConfig.BoardSize];
             stopwatch = new Stopwatch();
             stopwatch.Start();
 
@@ -71,7 +72,7 @@ namespace Game2048WinForms
             this.Controls.Add(this.timeLabel);
             this.Name = "MainForm";
             this.Text = "2048";
-            this.ClientSize = new Size(400, 460);
+            this.ClientSize = GameConfig.WindowSize;
             this.ResumeLayout(false);
         }
 

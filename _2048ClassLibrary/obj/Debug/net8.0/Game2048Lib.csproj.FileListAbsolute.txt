@@ -20,3 +20,4 @@ C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семест
 C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\refint\Game2048Lib.dll
 C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.pdb
 C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\ref\Game2048Lib.dll
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\_2048ClassLibrary\obj\Debug\net8.0\Game2048Lib.sourcelink.json

@@ -38,3 +38,4 @@ C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семест
 C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\GameForm\obj\Debug\net8.0-windows\GameForm.pdb
 C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\GameForm\obj\Debug\net8.0-windows\GameForm.genruntimeconfig.cache
 C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\GameForm\obj\Debug\net8.0-windows\ref\GameForm.dll
+C:\Users\Volodymyr\OneDrive\Desktop\Politech 2024-2025\1 Курс\2 Семестер\Курсова робота\GameForm\GameForm\obj\Debug\net8.0-windows\GameForm.sourcelink.json
