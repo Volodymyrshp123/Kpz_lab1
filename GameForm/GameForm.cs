@@ -75,6 +75,32 @@ namespace Game2048WinForms
             this.ClientSize = GameConfig.WindowSize;
             this.ResumeLayout(false);
         }
+private void HandleVictory()
+{
+    timer.Stop();
+    stopwatch.Stop();
+    var result = MessageBox.Show(
+        $"You Win! Time: {stopwatch.Elapsed.Minutes:D2}:{stopwatch.Elapsed.Seconds:D2}\nRestart?",
+        "Victory", MessageBoxButtons.YesNo);
+
+    if (result == DialogResult.Yes)
+        Application.Restart();
+    else
+        this.Close();
+}
+private void HandleGameOver()
+{
+    timer.Stop();
+    stopwatch.Stop();
+    var result = MessageBox.Show(
+        $"Game Over! Time: {stopwatch.Elapsed.Minutes:D2}:{stopwatch.Elapsed.Seconds:D2}\nRestart?",
+        "Game Over", MessageBoxButtons.YesNo);
+
+    if (result == DialogResult.Yes)
+        Application.Restart();
+    else
+        this.Close();
+}
 
         private void InitializeBoard()
         {
@@ -159,28 +185,16 @@ namespace Game2048WinForms
                     moved = game.MoveDown(out points); break;
             }
 
-            if (moved)
-            {
-                UpdateUI();
-                UpdateScore(points);
+           if (game.Has2048Tile())
+{
+    HandleVictory();
+    return true;
+}
 
-                if (game.Has2048Tile())
-                {
-                    timer.Stop();
-                    stopwatch.Stop();
-                    MessageBox.Show($"You Win! Time: {stopwatch.Elapsed.Minutes:D2}:{stopwatch.Elapsed.Seconds:D2}", "Victory");
-                    this.Close();
-                    return true;
-                }
-
-                if (!game.CanMove())
-                {
-                    timer.Stop();
-                    stopwatch.Stop();
-                    MessageBox.Show($"Game Over! Time: {stopwatch.Elapsed.Minutes:D2}:{stopwatch.Elapsed.Seconds:D2}", "Game Over");
-                    this.Close();
-                }
-            }
+if (!game.CanMove())
+{
+    HandleGameOver();
+}
 
             return base.ProcessCmdKey(ref msg, keyData);
         }
