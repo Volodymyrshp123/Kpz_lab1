@@ -6,10 +6,6 @@
 - **Опис:** Логіка гри винесена в бібліотеки, UI — у форму; це розділяє відповідальності та полегшує підтримку.
 - **Посилання:** [[_2048ClassLibrary/GameBoard.cs](_2048ClassLibrary/GameBoard.cs#L6-L19)](https://github.com/Volodymyrshp123/Kpz_lab1/tree/master/_2048ClassLibrary)
 
-**Encapsulation**:
-- **Опис:** Внутрішній стан ігрової дошки прихований через приватний сеттер, прямий доступ контролюється методами класу.
-- **Посилання:** [_2048ClassLibrary/GameBoard.cs]
-
 **Single Responsibility (SRP)**:
 - **Опис:** Кожен клас має чітку відповідальність: `GameBoard` — логіка дошки, `ScoreCounter` — підрахунок очок, `MainForm` — UI.
 - **Посилання:** https://github.com/Volodymyrshp123/Kpz_lab1/blob/89c559ea82ec04e20b75de6edbc49ef2419c8035/_2048ClassLibrary/GameBoard.cs#L6C5-L16C29, [_2048ClassLibrary/ScoreCounter.cs](_2048ClassLibrary/ScoreCounter.cs#L9-L15), [(GameForm/GameForm/GameForm.cs#L10-L33)](https://github.com/Volodymyrshp123/Kpz_lab1/blob/89c559ea82ec04e20b75de6edbc49ef2419c8035/GameForm/GameForm.cs#L10-L34)
