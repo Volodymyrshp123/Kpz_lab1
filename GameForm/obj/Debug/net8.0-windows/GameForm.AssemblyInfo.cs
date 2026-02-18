@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameForm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a441a107c4f160a56ef6f9a367190b65fe6142f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a4140dc0d97458abe7151a100068448e30ec9bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameForm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameForm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
