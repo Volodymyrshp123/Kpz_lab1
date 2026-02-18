@@ -92,16 +92,13 @@ private void HandleGameOver()
 {
     timer.Stop();
     stopwatch.Stop();
-    var result = MessageBox.Show(
-        $"Game Over! Time: {stopwatch.Elapsed.Minutes:D2}:{stopwatch.Elapsed.Seconds:D2}\nRestart?",
-        "Game Over", MessageBoxButtons.YesNo);
+var result = MessageBox.Show("Game Over! ... Restart?", "Game Over", MessageBoxButtons.YesNo);
+if (result == DialogResult.Yes)
+    Application.Restart();
+else
+    this.Close();
 
-    if (result == DialogResult.Yes)
-        Application.Restart();
-    else
-        this.Close();
 }
-
         private void InitializeBoard()
         {
             for (int i = 0; i < 4; i++)
